@@ -27,6 +27,7 @@ Samples: -
   - GSM1885094 - RNAseq_AD_15
   - GSM1885095 - RNAseq_AD_16
   - GSM1885096 - RNAseq_AD_17
+
 Pipeline Overview
 1. Data Download
 Bash script to download and convert SRR files using `prefetch` and `fasterq-dump`.
